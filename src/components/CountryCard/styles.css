@@ -1,0 +1,38 @@
+.cardflags {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 10px;
+  width: 250px;
+  height: 180px;
+  background-color: #f0f0f2;
+  padding: 8px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.coco {
+  text-decoration: none;
+}
+
+img {
+  width: 150px;
+  height: 50px;
+  text-decoration: none;
+}
+
+.backing {
+  margin-bottom: 5px;
+  color: rgb(0, 115, 238);
+  text-decoration: none;
+  font-size: 18px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
